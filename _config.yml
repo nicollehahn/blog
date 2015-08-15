@@ -1,0 +1,63 @@
+title:            Code and a Cup
+tagline:          a blog about entering the webdev world
+description:      A blog about entering the web development world
+canonical: http://www.nicollehahn.com/myblog
+
+# Owner/author information
+owner:
+  name:           nicolle hahn
+  avatar:         avatar.png
+  bio:            "Web Developer | Rubyist | Foodie"
+  email:          ms@nicolle.com
+  twitter:        bacigirl
+  github:         nicollehahn
+  instagram:      bacigirl
+  dribbble:       bacigirl
+  location:       "Baltimore, hon"
+  # Plug in your disqus shortname!
+
+tools:
+  standards:      "HTML, SCSS, Jekyll"
+  software:       "git"
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: http://nicollehahn.com/about.html
+    external: true
+  - title: Github
+    url: https://github.com/nicollehahn
+    external: true
+  - title: Home
+    url: http://nicollehahn.com/
+    external: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/New_York
+future:      true
+highlighter: pygments
+markdown:    kramdown
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+sass:
+    style: :compressed
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]

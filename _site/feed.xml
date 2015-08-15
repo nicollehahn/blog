@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Code and a Cup</title>
+<subtitle type="text">a blog about entering the webdev world</subtitle>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2015-08-15T01:12:00-04:00</updated>
+<id>/</id>
+<author>
+  <name>nicolle hahn</name>
+  <uri>/</uri>
+  <email>ms@nicolle.com</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[A Journey Begins With a Single Step]]></title>
+  <link rel="alternate" type="text/html" href="/articles/the-journey-begins" />
+  <id>/articles/the-journey-begins</id>
+  <published>2015-08-14T00:00:00-04:00</published>
+  <updated>2015-08-14T00:00:00-04:00</updated>
+  <author>
+    <name>nicolle hahn</name>
+    <uri></uri>
+    <email>ms@nicolle.com</email>
+  </author>
+  <content type="html">&lt;p&gt;I’ve come a long way in the past year.  Last June, I enrolled in Betamore Academy.  It’s an incubator space for both education &amp;amp; provides a physical workspace for entrepreneurs, start-ups, remote workers, that sort of thing.  What did I do?  I took the course in Front End Web Development.  Topics included HTML, CSS, JS, responsive web design for mobile and tablets, all of which is covered in a 10 week course.  10 WEEKS!!!  It was a great introduction to my future.  Was I in over my head?  Most of the time!  I have to admit, I was incredulous that it was such an effort for me to learn the new ways.  I was exhausted after the class.  Most of it was caused by me stressing over not grasping the material immediately.  At the time, I didn’t have much confidence, so I didn’t ask for help.  I was angry at myself.  So much money spent, how could I have utilized my time better???&lt;/p&gt;
+
+&lt;p&gt;My next step after the course was to get better at time management, learn to focus, and study/practice so that I could understand everything that was taught to me.  In addition to that, I began taking many classes on CodeSchool, Treehouse &amp;amp; Pluralsight.  I watched seminars, webdev classes online, and streamed many similar things on my AppleTV or MacBookPro.  It was a site called DevTips, by an energetic guy named, Travis Neilson.  I loved how goofy he was.  I loved how he loved what he was doing.  His site pointed out some great resources that began to set me on my way.  In my next post, I will share what resources started to make me realize I could do this and as Dr. Seuss says, “you have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. You’re on your own. And you know what you know. And YOU are the one who’ll decide where to go…” (from Oh, The Places You’ll Go!)&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/the-journey-begins&quot;&gt;A Journey Begins With a Single Step&lt;/a&gt; was originally published by nicolle hahn at &lt;a href=&quot;&quot;&gt;Code and a Cup&lt;/a&gt; on August 14, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[This is the beginning]]></title>
+  <link rel="alternate" type="text/html" href="/articles/beginning-post" />
+  <id>/articles/beginning-post</id>
+  <published>2015-08-14T00:00:00-04:00</published>
+  <updated>2015-08-14T00:00:00-04:00</updated>
+  <author>
+    <name>nicolle hahn</name>
+    <uri></uri>
+    <email>ms@nicolle.com</email>
+  </author>
+  <content type="html">&lt;p&gt;“Man cannot discover new oceans unless he has the courage to lose sight of the shore.” – Andre Gide&lt;/p&gt;
+
+&lt;p&gt;And that’s how it began.  I decided to try to learn something new.  I have always been drawn towards technology.  I love digging under the surface.  I love the “search.”  Who doesn’t love that feeling, when you have driven yourself crazy looking for something, there it is?  The treasure is in front of you, whether it’s a solution you had to search for, or something you figured out through trial and error.&lt;/p&gt;
+
+&lt;p&gt;I often tell people that I know my way around D.C. so well because I got lost there so many times.  My approach to webdev seems no different.  I’ve traded learning languages to speak in foreign countries, to learning languages to speak to a broad community of developers, designers, programmers and people in the tech community.  It will be through this experience, that a new adventure begins.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/beginning-post&quot;&gt;This is the beginning&lt;/a&gt; was originally published by nicolle hahn at &lt;a href=&quot;&quot;&gt;Code and a Cup&lt;/a&gt; on August 14, 2015.&lt;/p&gt;</content>
+</entry>
+
+</feed>

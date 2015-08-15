@@ -1,0 +1,14 @@
+/* TEAM */
+Creator: nicolle hahn
+Contact: ms@nicolle.com
+Twitter: bacigirl
+Location: Baltimore, hon
+                           
+/* THANKS */                           
+Creator of Balzac theme: Cole Townsend
+Twitter: @twnsndco
+
+/* SITE */                         
+Last update: 2015-08-15
+Standards: HTML, SCSS, Jekyll                        
+Software: git
