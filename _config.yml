@@ -8,7 +8,7 @@ owner:
   name:           nicolle hahn
   avatar:         avatar.png
   bio:            "Web Developer | Rubyist | Foodie"
-  email:          ms@nicolle.com
+  email:          ms@nicollehahn.com
   twitter:        bacigirl
   github:         nicollehahn
   instagram:      bacigirl
@@ -24,7 +24,7 @@ tools:
 # For external links add external: true
 links:
   - title: About
-    url: http://nicollehahn.com/about.html
+    url: http://nicollehahn.com/
     external: true
   - title: Github
     url: https://github.com/nicollehahn
