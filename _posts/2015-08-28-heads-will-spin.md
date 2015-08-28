@@ -6,7 +6,7 @@ categories: articles
 date: 2015-08-28
 tags: [newbie_troubles]
 image:
-        feature: freshwaterandstrawberries.jpg
+        feature: freshwaterandstrawberries.JPG
 ---
 They don't tell you when you get into Web Development that many times you will feel as if things fly right over your head ---- or after much learning and coding, your head will keep spinning.
 
