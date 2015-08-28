@@ -1,6 +1,6 @@
 /* TEAM */
 Creator: nicolle hahn
-Contact: ms@nicolle.com
+Contact: ms@nicollehahn.com
 Twitter: bacigirl
 Location: Baltimore, hon
                            
@@ -9,6 +9,6 @@ Creator of Balzac theme: Cole Townsend
 Twitter: @twnsndco
 
 /* SITE */                         
-Last update: 2015-08-15
+Last update: 2015-08-28
 Standards: HTML, SCSS, Jekyll                        
 Software: git
