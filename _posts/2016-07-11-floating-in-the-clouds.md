@@ -11,7 +11,7 @@ image:
 
 I was floating in the pool Sunday evening, bouyant by a faded red styrofoam noodle.  I kept asking myself "what should I talk about this week?"  I watched birds perch on lampposts, clouds decorate a blue sky and heard nearby traffic.  And I kept floating and thinking.  Unfortunately there was nothing spectacular that came to mind.  As I am sitting here writing, still nothing.  So instead I'll fill you in on what podcasts I've been listening to.  I been listening to some pretty spectacular stuff.  
 
-I've really been enjoying (binge-listening) to [Does Not Compute](http://spec.fm/podcasts/does-not-compute)from Spec.fm.  Does Not Compute features two web developers, Paul Straw & Sean Washington, sharing workflows.  There's a lot of practical advice packed in their podcasts as well as some technical tidbits.  
+I've really been enjoying (binge-listening) to [Does Not Compute ](http://spec.fm/podcasts/does-not-compute)from Spec.fm.  Does Not Compute features two web developers, Paul Straw & Sean Washington, sharing workflows.  There's a lot of practical advice packed in their podcasts as well as some technical tidbits.  
 
 On the other side of the spectrum, I've been slowly devouring [Design Details](http://spec.fm/podcasts/design-details), also from Spec FM.  Bryn Jackson & Bryan Lovin interview people who design products/tools we love to use.  Episode 145 featured Chris Downer, from one of my faves, Sketch.  Hey now!
 
