@@ -38,6 +38,8 @@ timezone:    America/New_York
 future:      true
 highlighter: rouge
 markdown:    kramdown
+markdown: redcarpet
+extensions: [fenced_code_blocks]
 
 kramdown:
   auto_ids: true
